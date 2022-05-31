@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Htin Zaw, British, originally from Myanmar/Burma. I am currently living in London and actively seeking for a Junior Software Developer role.
+- 👋 Hi, I’m Htin Zaw, British, originally from Myanmar/Burma. I am currently living in London and actively seeking a Junior Software Developer role.
 - 👀 I’m interested in creating, designing new features and solving problems with technology.
 - 🌱 I’m currently learning JavaScript, React ..
 - 💞️ I’m looking to collaborate on Github.
