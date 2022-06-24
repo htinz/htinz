@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning JavaScript, React
 - 💞️ I’m looking to collaborate with other content creators
 - 📫 You can reach me via e-mail at htindev@gmail.com
-- 🐥 Fun fact: I love travelling, siging, playing guitar and football
+- 🐥 Fun fact: I love travelling, singing, playing guitar and football
 
 ## Connect with me
 
