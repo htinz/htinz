@@ -1,7 +1,7 @@
 # Hi there! 👋
 # I am Htin Zaw
 
-- 🤝 I’m British, originally from Myanmar/Burma 
+- 🤝 I’m from Myanmar/Burma 
 - 💻 I am currently living in London 
 - 👀 I’m interested in creating, designing new features and solving the problems with technology
 - 🌱 I’m currently learning JavaScript, TypeScript and React
