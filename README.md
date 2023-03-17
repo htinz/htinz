@@ -10,9 +10,6 @@
 - 🐥 Fun fact: I love travelling, singing, playing guitar and football
 
 ## Connect with me
-
-https://www.facebook.com/htin.zaw.12
-<br/>
 https://www.linkedin.com/in/htin-zaw-7a21721a/
 <br/>
 https://www.youtube.com/channel/UCzKa8IJzkV_dJhKNEj7lMxw
