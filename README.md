@@ -4,7 +4,7 @@
 - 🤝 I’m from Myanmar/Burma 
 - 💻 I am currently living in London 
 - 👀 I’m interested in creating, designing new features and solving the problems with technology
-- 🌱 I’m currently learning JavaScript, React and Node.js
+- 🌱 I’m currently training to become a Full Stack Engineer with IT career switch
 - 💞️ I’m looking to collaborate with other content creators
 - 📫 You can reach me via e-mail at htindev@gmail.com
 - 🐥 Fun fact: I love travelling, singing, playing guitar and football
