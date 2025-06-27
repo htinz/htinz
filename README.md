@@ -5,7 +5,6 @@
 - 🌍 I am a British citizen, living in London 
 - 👀 I’m interested in creating, designing new features and solving the problems with technology
 - 💻 I have successfully completed the Full Stack Engineer training program with IT Career Switch
-- 🤝 I’m looking to collaborate with other content creators
 - 📫 You can reach me via e-mail at htindev@gmail.com
 - 🐥 Fun fact: I love travelling, singing, playing guitar and football
 
