@@ -11,7 +11,6 @@
 ## Connect with me
 https://www.linkedin.com/in/htin-zaw-7a21721a/
 <br/>
-https://www.youtube.com/channel/UCzKa8IJzkV_dJhKNEj7lMxw
 
 <!---
 htinz/htinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
